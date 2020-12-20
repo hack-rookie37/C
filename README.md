@@ -1,2 +1,2 @@
 # C
-C Language Practices or Projects
+C Language Practices and Projects
