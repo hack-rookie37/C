@@ -27,7 +27,7 @@ int main()
     {
         for (int j = 0; j < col; j++)
         {
-            pptr[i][j] = i+j;
+            pptr[i][j] = i + j;
         }
     }
     for (int i = 0; i < row; i++)
